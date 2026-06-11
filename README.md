@@ -18,3 +18,10 @@ Image Source: https://github.com/facebookresearch/frankmocap/issues/91
 ##### Overview:
 This Colab notebook demonstrates the loading, manipulation, visualization, and animation of the SMPLX human body model. It uses Python libraries such as `smplx` for model functionality, `trimesh` for 3D mesh processing, and `plotly` for interactive 3D visualizations and animations.
 
+#### 2.Project Title: Mano Model Visualization and Animation
+<img width="367" height="463" alt="mano_articulations" src="https://github.com/user-attachments/assets/e697b1dc-42b4-4da7-8ff3-e9891962480f" />
+
+Image Source: [https://github.com/facebookresearch/frankmocap/issues/91](https://www.researchgate.net/profile/Dan-Casas-2/publication/334434770/figure/fig1/AS:806300199968770@1569248356863/llustration-of-MANO-hand-model-left-that-is-augmented-with-our-collision-proxies-top.png)
+
+##### Overview:
+This Colab notebook demonstrates how to load, manipulate, visualize, and animate the Mano hand model using Python libraries. It covers adjusting body shape and pose parameters, and generating interactive 3D animations from real pose data.
