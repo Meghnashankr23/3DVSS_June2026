@@ -19,14 +19,6 @@ The notebook covers:
 
 This method enables rapid creation of personalized photorealistic hand avatars for various applications like XR, gaming, telepresence, and digital humans, generating high-quality UV texture maps in under one minute from minimal input.
 
-### How to Run
-1.  **Open in Google Colab**: Click the "Open in Colab" badge (if available) or navigate to this notebook in Google Colaboratory.
-2.  **Run All Cells**: To execute the entire pipeline, select `Runtime > Run all` from the Colab menu. This will sequentially install dependencies, download data, generate the texture, and visualize the result.
-3.  **Execute Cells Individually**: Alternatively, you can run each cell one by one by clicking the "Play" button next to each code cell or by pressing `Shift + Enter`. This allows for step-by-step understanding and debugging.
-4.  **Interact with Visualizations**: After running the visualization cells, you can interact with the generated `pyvista` 3D figures (rotate, zoom, pan).
-
-
-
 
 ### 2.Project Title: SMPLX Model Visualization and Animation
 https://github.com/Meghnashankr23/3DVSS_June2026/blob/main/SMPLX_Animate.ipynb
@@ -41,8 +33,10 @@ The notebook covers:
 -   **Visualization**: Static and interactive 3D rendering of the SMPLX mesh and its joints using `trimesh` and `plotly`.
 -   **Animation**: Creating dynamic animations of pose variations and custom pose sequences.
 
+
+
 ### How to Run
-1.  **Open in Google Colab**: Click the "Open in Colab" badge (if available) or upload the `.ipynb` file to your Google Drive and open it with Google Colaboratory.
+1.  **Open in Google Colab**: Click the "Open in Colab" badge (available- topmost button ) or upload the `.ipynb` file to your Google Drive and open it with Google Colaboratory.
 2.  **Run All Cells**: Navigate to `Runtime > Run all` in the Colab menu. This will execute all cells sequentially.
 3.  **Execute Cells Individually**: Alternatively, you can run each cell one by one by clicking the "Play" button next to each code cell or by pressing `Shift + Enter`.
 4.  **Interact with Visualizations**: After running the visualization cells, you can interact with the generated Plotly 3D figures (rotate, zoom, pan) and use the play/pause controls for animations.
