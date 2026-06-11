@@ -13,7 +13,7 @@ Figure: Texture outputs given the Palmar and Dorsal Images of subjects
 This Colab notebook demonstrates a novel and efficient approach for generating photorealistic textures for 3D hand models. It specifically addresses the challenges of accurately representing both the palmar (front) and dorsal (back) sides of the hand by leveraging a ControlNet-based texture generation pipeline conditioned on anatomical priors.
 
 The notebook covers:
--   **Environment Setup**: Installation of necessary libraries (`diffusers`, `ip-adapter`, `opencv-python`, `pyvista`, etc.) and downloading project assets (`Demo.zip`).
+-   **Environment Setup**: Installation of necessary libraries (`diffusers`, `ip-adapter`, `opencv-python`, `pyvista`, etc.) and downloading project assets- UV masks, UV normals, semantic masks,depth masks,and sample palmar and dorsal images.
 -   **Input Preparation**: Loading and displaying control images (UV normal, depth, mask) and semantic UV maps, along with reference images for the back and palm of the hand.
 -   **Semantic Masking**: Creating semantic masks for distinct hand regions (palm and back) to guide the diffusion process.
 -   **Model Configuration**: Loading pre-trained ControlNet models (for normal and depth guidance) and configuring the IP-Adapter for style conditioning.
