@@ -4,7 +4,7 @@
 
 
 ### Project Title: Photorealistic Hand Avatar Texturing with Palmar and Dorsal Hand Views
-https://github.com/Meghnashankr23/3DVSS_June2026/blob/main/Photorealistic_Hand_Texture.ipynb
+https://colab.research.google.com/github/Meghnashankr23/3DVSS_June2026/blob/main/Photorealistic_Hand_Texture.ipynb
 <img width="579" height="421" alt="UV texture" src="https://github.com/user-attachments/assets/de732f24-9a12-445e-97c9-913d2a6b49cf" />
 
 Figure: Texture outputs given the Palmar and Dorsal Images of subjects
