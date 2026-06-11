@@ -14,6 +14,7 @@ This Colab notebook demonstrates a novel and efficient approach for generating p
 #### 2.Project Title: SMPLX Model Visualization and Animation
 <img width="1013" height="565" alt="image" src="https://github.com/user-attachments/assets/d12ca9df-1112-444f-b2a9-7a909df2b529" />
 Image Source: https://github.com/facebookresearch/frankmocap/issues/91
+
 ##### Overview:
 This Colab notebook demonstrates the loading, manipulation, visualization, and animation of the SMPLX human body model. It uses Python libraries such as `smplx` for model functionality, `trimesh` for 3D mesh processing, and `plotly` for interactive 3D visualizations and animations.
 
